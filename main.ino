@@ -1,5 +1,5 @@
 void setup() {
-    //Disengage break pins.
+    //Disengage brake pins.
     pinMode(9, OUTPUT);
     pinMode(8, OUTPUT);
     digitalWrite(9, LOW);
